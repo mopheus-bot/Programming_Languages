@@ -1,5 +1,4 @@
-# CS210
-Programming Languages
+# Programming Languages
 
 ### Grocery Tracking App
 
