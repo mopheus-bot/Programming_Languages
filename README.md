@@ -1,5 +1,4 @@
-# CS210
-## Programming Languages
+# CS210 - Programming Languages
 
 ### Grocery Tracking
 
