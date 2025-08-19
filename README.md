@@ -1,4 +1,5 @@
 # Programming Languages
+C++, Python, Interoperability, File I/O, Data Processing, OOP. CS210
 
 ### Grocery Tracking App
 
